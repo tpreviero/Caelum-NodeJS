@@ -1,1 +1,1 @@
-Treinamento AngularJS na Caelum
+Treinamento NodeJS na Caelum
